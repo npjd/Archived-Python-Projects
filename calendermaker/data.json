@@ -1,0 +1,4113 @@
+{
+  "__collections__": {
+    "successfulPeople": {
+      "Ali Abdaal": {
+        "title": "The Productivity Expert",
+        "accomplishment": "Doctor in the U.K YouTube channel with over 1 million subscribers",
+        "id": "kp9fb1mmprcobku7jenpd4euc8@group.calendar.google.com",
+        "summary": "Ali is able to manage a full day of being a doctor and Youtuber by planning out his day in advance and tries to avoid as much procrastination as he can. He does all of this while still having a bit of joy and breaks during his day to day life.",
+        "__collections__": {
+          "event1": {
+            "vDMI7b5OfVxQtg9Ot2TY": {
+              "activity": "General Life Maintenance",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613043000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613649600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali wakes up, takes a shower, has his morning coffee, then gets ready to start the day.",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "sfacUo3V6sZMKBXBgHiG": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613674200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613680800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He continues to write discharge letters (they take a long time).",
+              "activity": "More Discharge Letters",
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "LxXZm1QYpyDsVc7Wd71U": {
+              "description": "Ali starts to study the heart and circulation for a lecture that he has to supervise some medical students at Cambridge University.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612992000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Study Session",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613506800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "ew5y0zgNjZKbVz4AcPPm": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613684700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Doctor “stuff”",
+              "description": "Ali gets a call to review a patient that has an anxiety attack.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613517600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event13": {
+            "I5iGbsP8I8NAv2kY26vj": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613691000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613692800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Second Study Session",
+              "description": "Ali then continues studying and prepping for a teaching session he will do with medical students at Cambridge University.",
+              "__collections__": {}
+            }
+          },
+          "event14": {
+            "8sgGTdQbiekpvBAdhsjd": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613692800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali then goes to the Hospital restaurant again to have some dinner with his colleagues.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613610000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event15": {
+            "5joy4cbB7Z5tcvYJXQOB": {
+              "description": "Ali starts to do his final study session for the day.",
+              "activity": "Third Study Session",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613698200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613696400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event16": {
+            "FLr2JXTIEiRcbBWcaCrx": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613698500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali takes a break and watches a documentary 25 minutes before his shift is over at the hospital.",
+              "activity": "“Chill” time",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613700000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event17": {
+            "jIv22Kcyuwyowf9ty8as": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613700000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Ali ends the day by discussing the day’s patients with the night shift on-call doctor, then he drives back home.",
+              "activity": " Drive Back Home",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613702700,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "MWHr2gyRZ5OjrkTUqSYa": {
+              "description": "Even though Ali is a full-time doctor, he continues to work hard on his Youtube channel and during the mornings he likes to film his future YouTube videos.",
+              "activity": "Recording",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613653800,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613649600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "JHoURR23Sg6iah9l12sR": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613656500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "During this time Ali drives to work, while either listening to a podcast, an audiobook or reflecting on thoughts.",
+              "activity": "Transportation",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613653800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "2nF6bE9bRd6csqKZInt5": {
+              "activity": "Arrival",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613658600,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613052000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali arrives at the hospital where he works and the on-call doctor before him talks to him about any task he has to do for the day.",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "co7ZSDQCoMfxwonOXyq3": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613662200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613658600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "This is some of Ali's Nursing work for the morning, including nurse calls for medicine prescriptions and patient visits",
+              "activity": "Work",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "a5bwxdmNMiyDkdTnjTA5": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613664000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Breakfast",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613662200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "After some work in the morning, Ali heads over to the hospital's restaurant to have breakfast with his friend.",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "25jgEiO6F4gCXRZ92vMw": {
+              "description": "During this period, Ali will often be writing patient discharge letters, and well as doing consultations and making more prescriptions.",
+              "activity": "Work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613664000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613670000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "XmoZteKT3y7aTwQt6vzS": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613671200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613674200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali has lunch in the hospital restaurant with some of his colleagues, then plays a bit of table tennis.",
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "J0znmgiVuMqYQYWnsgtw": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613587800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Ali has lunch in the hospital restaurant with some of his colleagues, then plays a bit of table tennis.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613671200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Barack Obama": {
+        "summary": "Obama makes sure to get in some exercise every morning to become more productive throughout the rest of the day. He is also a night owl; he feels the most productive and gets the most work done during the later hours of the day. Obama values family time especially. He makes sure to spend time with his family each and every day.",
+        "id": "slb4bn4epb7bokc8d08k0oikeo@group.calendar.google.com",
+        "accomplishment": "Served as the 44th president of the United States (2009-2017), First African-American to be elected as the president of the United States, Alumni of Harvard Law School",
+        "quote": "Change will not come if we wait for some other person or if we wait for some other time. We are the ones we’ve been waiting for. We are the change that we seek.",
+        "__collections__": {
+          "event1": {
+            "Ylr4tomTcrMIFXigmsop": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612697400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up and get ready for the day",
+              "description": "Obama is a fairly early riser.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612698900,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "ZfzsNaJznrzHd02IYTt4": {
+              "description": "Obama likes to work out early in the morning, and exercises 6 times a week. His workouts vary; on some days, he’ll do strength training and cardio while on others he’ll do plyometrics and some ab workouts.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612699200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612701900,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Exercise",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "HzxMrglY0vdbmxlNdA5O": {
+              "activity": "Breakfast",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612702200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Obama prefers to drink water, orange juice and green tea rather than coffee.   He’ll have breakfast with his family, and then send his kids off to school.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612704000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "210AgWUUFTNrshxjL4bd": {
+              "description": "He’ll get to the office sometime between 8:30 AM to 9:30 AM.",
+              "activity": "Getting to the office",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612708200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612704600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "J0t0ZBLHQ69U6XMT36NY": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612708200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "While President, Obama had various duties to fulfill, involving legislative proposals, speech drafts, press conference talking points, intelligence briefings and other.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612740600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Work",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "LdMHXZFjdovs6PEFB6L6": {
+              "description": "Obama would have dinner with family sometime after 6:30 PM, and hang out with his kids before putting them to bed.",
+              "activity": "Dinner and family time",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612747800,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612741500,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "uLgXQWeNj9F9mcyOMugb": {
+              "description": "After dinner, Obama would return to the office and continue with his work. Obama found himself to be at his most productive during the later hours of the day.  This was also a time for him to decompress, prepare for what comes next, and just think.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612758600,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612748700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Work continued",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "H8NPdx26k7TzBjYUNrnM": {
+              "description": "Before bed, Obama will usually have about a half hour to read. ",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612675500,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Getting ready to go to bed",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612759200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "ZNbAAn7pDD9Ouu8vvcHL": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612675800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Barack Obama goes to bed fairly late.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612675801,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Sleep",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Bill Gates": {
+        "accomplishment": "Co-founder & former CEO of Microsoft, Co-founder of the Bill & Melinda Gates Foundation & the second wealthiest person in the world as of 2021 (Forbes)",
+        "id": "fh85uj8o9d2bdfc8p5rp5eq83c@group.calendar.google.com",
+        "summary": "Gates makes sure to spend time with his family each and every day. Quality sleep is also very important to him; he ensures that he gets at least 7 hours of sleep a night. Lastly, Bill Gates makes sure that each and every minute of his day is spent wisely; he will allot specific blocks of time in order to complete specific tasks.",
+        "quote": "Success is a lousy teacher. It makes smart people think they can’t lose",
+        "__collections__": {
+          "event1": {
+            "bVqvFyT5sdAIUNRrH0sg": {
+              "description": "Gates enjoys eating sweet foods, like chocolate cereal Cocoa Puffs, in the morning. However, he usually skips breakfast.",
+              "activity": " Wake up and get ready",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613046600,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613044800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "psF8AW21M7UdPy02HHOq": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613019601,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Go to bed",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613019600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Gates states that in order for him to think creatively and function properly, he must get adequate rest. He typically gets at least 7 hours of sleep per night.",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "wKVHsCfyqYdQPpNZIh6I": {
+              "activity": "Exercise",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613047200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Every morning, Bill Gates spends an hour running on the treadmill while watching educational DVDs, like the Teaching Company’s “Great Courses” series. He believes exercise in the morning will improve his overall productivity for the day.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613050800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "0x1cjdpTTLrYF852FFKf": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613053200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613051400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Afterwards, Gates would read articles from the New York Times, The Wall Street Journal and The Economist to catch up with the latest news.",
+              "activity": "Catch up on the news",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "nZOcdcto7iLWgNoJuKfm": {
+              "activity": "Work",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613062200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613053500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Like Elon Musk, Bill Gates uses a technique called timeboxing. Essentially, he breaks his schedule down into small intervals - often as small as 5 minute increments. He carefully plans each and every moment so as to not waste a single minute.   He’ll also regularly take notes of his ideas throughout the day in order to keep track of his thoughts. ",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "VH9usunpRzo4HA58G2Cz": {
+              "description": "Bill Gates’ favourite meal for lunch is cheeseburgers. When eating with him, his assistants would often have cheeseburgers as well. ",
+              "activity": "Lunch",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613154600,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613062800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "jHH0zFXvVxzuEwA73iXH": {
+              "activity": "Work continued",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613069400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613083500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Gates would complete various tasks, such as reviewing his emails, holding meetings with his co-workers and planning events.",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "jeOVi44EspOm8YNcSJVb": {
+              "activity": "Dinner and relaxation",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613086200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Bill, his wife and his daughter try to have dinner together. The couple tries not to work after dinner, choosing instead to relax with the entire  family.   Spending time with family is his favorite pastime.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613091600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "ElFSWBGLxGXE1s8xb1IR": {
+              "description": "In order to unwind and destress from the day, Gates will do some household chores. He enjoys washing the dishes in particular.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613093400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613098800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Chores",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "aNq1yI8LFpMORRHQb1RS": {
+              "activity": "Getting ready to go to bed",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613105100,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613099700,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Bill Gates will often read for an hour before going to sleep. ",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Dwayne Johnson": {
+        "accomplishment": "Famous influencer, and athlete",
+        "title": "Actor",
+        "id": "eqm4t2bh2sqrre5jf1hvbqic6g@group.calendar.google.com",
+        "summary": "Dwayne’s life is very different everyday. There is always something new that he is working on. His work-life balance varies according to different jobs. Planning out the day and having a routine is essential for any influencer to be successful.",
+        "__collections__": {
+          "event1": {
+            "FRoWTxxdobbFKfVt2VnI": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612168200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Dwayne Johnson wakes up at three in the morning or any time before the sun rises.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613466000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up, Stretch",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "zWxLKLYTrK52LwF69IWJ": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612170000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Johnson needs peace and quiet early in the morning. He sacrifices 2 hours of sleep for time to himself to reflect and think about how he is going to tackle the day.",
+              "activity": "Time to himself",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612951200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "SfYNF9LyXuKW4H3TWNhY": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612867500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612173600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Cardio Workout",
+              "description": "Dwayne Johnson would always do 30-50 minutes of cardio because it helps build endurance. He either uses his elliptical or jogs around the neighborhood.",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "0o0peJtxiCGGQpXxAzO8": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613560500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612262700,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " One of Johnson's breakfast consists of orange juice, eggs, two cups of  oatmeal.",
+              "activity": "Breakfast",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "CxZuzmKcBDf53DSmd9Q4": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614261600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Dwayne serpates his body parts when working out. Certain days he will work out his back then his legs, arms etc… Working out is essential to Johnson, no matter where he is, there is always a gym and he gets his exercise in before he starts any of his work.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612699200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Workout ",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "d7I4PVfhdq9it8LnW2dk": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613779200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "This includes being on set and acting for several hours, going to interviews for new movies, cutting deals and sponsorships for his new liquor company. Hosts his game show. The Rock lives a very compact and busy life, time management is key.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612274400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Start Work for  the day.",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "2TNUXPq9zNmnVe7GT6Tt": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613701800,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612830600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "After being on the go and working non-stop. Dwayne Johnson spends time with his family.",
+              "activity": "Spend time with family and relax.",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "i5OXr1ltzGmxL42LBseX": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614481200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Rest and take on the next day!",
+              "activity": "Sleep",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613637000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Elon Musk": {
+        "title": "The \"real life iron man\"",
+        "id": "886fk86e91datt352j1milvqus@group.calendar.google.com",
+        "summary": "Elon’s days are mostly spent working. In fact, he works up to 100 hours a week, finding complete fulfillment and meaning to his work at Tesla and SpaceX. ",
+        "accomplishment": "Founder and CEO of Tesla, CEO and CTO of SpaceX",
+        "__collections__": {
+          "event1": {
+            "VZisygSgvtHEx1sm5moA": {
+              "activity": "Wake up and have a quick shower",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611923400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Elon Musk personally does not eat breakfast, but takes a mandatory shower in the mornings.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611921600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "iPGcoWBxN17IDHAy9eDU": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611924300,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Get started with work",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611926100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "As CEO of multiple companies, Elon Musk prioritizes responding to emails in the early mornings. This gets his team rolling as soon as possible. ",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "IWXjNddUYjYWg39p0e7a": {
+              "description": " Elon dedicates his working hours to spaceX and Tesla. For the first section of his day, he works on SpaceX. ",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611941400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611927000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Working on task number 1",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "Lt33JF3RL5hzksGACcwW": {
+              "description": "As tight as his schedule seems, CEOs have to eat too.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611942300,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611945300,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "p1mf2FZ8Yc1lY034oUax": {
+              "description": "For the second section of his day, Elon Musk works at Tesla, where he leads product design, engineering, and management.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611946200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611963900,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Working on task number 2",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "THJw5q3fOKC7zmKFSues": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611970200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611964800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner & break ",
+              "description": "After work, Elon attends to other needs like going to work dinners for networking purposes. Other times, he goes to the gym to workout, though not frequently.",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "gi2nAUI9djf2JbRTXyqX": {
+              "activity": "Reading",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611971100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Elon Musk admits to love the books - Lord of the Rings and Benjamin Franklin.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611974700,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "0Ps6p6NXJ8jqISMvYMmk": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611900000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1611975600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Elon Musk continues to work at his companies until midnight.",
+              "activity": "Work",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "John Cena": {
+        "id": "6709bndbc93niidd7vapsi55eo@group.calendar.google.com",
+        "summary": "Although successful in a variety of careers, John Cena is best known for becoming a viral internet meme, known as \"Unexpected John Cena\".",
+        "accomplishment": "Known as one of the greatest professional wrestlers ever, John Cena is not only a professional wrestler but also a successful actor and TV personality. ",
+        "__collections__": {
+          "event1": {
+            "H01DrOMGiVyhA8agEh5Q": {
+              "description": "John Cena is an early riser.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612440000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613214000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "GeQOYccn6oIQMnL3HaOZ": {
+              "description": "Again, a light amount of food in 3 hour intervals.",
+              "activity": "Eat",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613075400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613074500,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "5N04jsT9VH9EIwks7GZ2": {
+              "activity": "Calls",
+              "description": "John Cena makes sure to spend as much time on his mother and significant other as possible.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612472400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613162700,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "ZXRxIzMkuJ5pMdnTp4id": {
+              "description": "Meetings, interviews etc. all business is made sure to be done before 7:00pm every day.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612559700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Work",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613088000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event13": {
+            "uTpGy2jCts8tCBROXlAY": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613098800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "John Cena tends not to pay attention to time in the evenings, choosing to enjoy himself with his S.O. and whatever they’re doing or wherever they’re at.",
+              "activity": "Dinner",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612485000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event14": {
+            "HJEvgb4o1ZAVICA9Ib5y": {
+              "activity": "Bedtime",
+              "description": "John Cena gets to bed between 10:30 to 11:00 PM.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613100600,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613102400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "lKlt3f5FMvfAO7WPvU7o": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612527300,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612530000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Shower",
+              "description": "Shaving, brushing teeth, moisturizing, and getting dressed.",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "umJ2bTEjuBKsjhy1GuPj": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612444500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Protein shake (1 cup milk, 1 cup water, 2 scoops protein), or 4 scrambled eggs with swiss cheese, bacon, and sauteéd veggies.",
+              "activity": "Breakfast",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612446300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "7f4gJ7WHcqYk2f0Yad0C": {
+              "activity": "Morning conference",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613051100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Reviewing what needs to be done for the day and prepares for meetings, or any business",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613138400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "HTb1mb97FDEP6asRnyLs": {
+              "description": "A lot of time spent on warm up to prepare for the demand being put on the body for the rest of the day.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612448100,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612537200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Workout (Warm up)",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "63yzEZ0Q36ibVZSAMX4Q": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612451700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Workout",
+              "description": "John Cena exercises to maintain his shape.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612454400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "aV1wiaJMu15eGfO8zzgE": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613060100,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612542600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Shower #2",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "XtOKEfpWfbFkWNGgGNSg": {
+              "description": "John Cena spreads out his meals in 3 hour intervals, though usually small amounts such as a protein bar.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613061900,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612458000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Eat",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "SNWCJ4ghXcIJRhYpYTTG": {
+              "description": "Learning to speak Mandarin and to play the piano.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612548000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Leisure",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612458900,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Kourtney Kardashian": {
+        "id": "sl9av8ibup261ll0oblo83jdf0@group.calendar.google.com",
+        "accomplishment": "One of the Kardashians, a star in the show Keeping up with the Kardashians and a mom of 4",
+        "summary": "Kourtney Kardashian’s day is filled with self care. She makes sure to stay mentally and physically healthy by praying, working out, and drinking/eating healthy drinks/foods.",
+        "title": "“The least interesting to look at”",
+        "__collections__": {
+          "event1": {
+            "QwdWFWWP2IWjKWem7vTn": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614082200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613044800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "First thing Kourtney Kardashian does in the morning...PRAY. She likes connecting with nature and thanking God for her blessings. If you are not a person who usually prays instead you can spend some time to think about the things in your life YOU are grateful for.",
+              "activity": "Pray",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "EoBEsww640QtZ7Nug4hF": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613045400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613045700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "  Healthy Drink",
+              "description": "The preferred drink of Kourtney Kardashian is a collagen drink. This drink keeps Kourtney full all morning and helps get her through her morning workout",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "A4kWgdrM9SPdymA2CLxL": {
+              "description": " Changing clothes keeps Kourtney calm and comfortable. Kourtney changes into workout clothes",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613046300,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613046000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Change Your Clothes",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "ZqVf3TzasM8zWboOqVKA": {
+              "description": " Drinking a homemade apple tea gives Kourtney Kardashian a dose of nutrients, and also claims that it keeps her awake as she is still pretty tired from waking up. During this time drink one of your favourite teas that contains some nutrients.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613047200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613046600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Apple Tea",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "knlWWSYV1q8Sya1DpAlE": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613052000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613050200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Drop-off Kids",
+              "description": " At this time Kourtney takes her kids to school and likes to spend the time she has with her kids in the car by listening to some positive music. If you do not have kids during this time you could potentially go out for a morning walk, or if you have a dog, walk your dog.",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "xyRBmDzn2UQHWEftF8pV": {
+              "activity": "Workout",
+              "description": " Kourtney likes to workout because it's a type of meditation for her. ",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613054700,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613058300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "C4zbKj4xwVmghf5Kmnij": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613060100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " After her workout, Kourtney Kardashian prep and drinks a shake. Her go to drink is an avocado shake, but you can choose any shake you like.",
+              "activity": " Morning-shake",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613059200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Maya Angelou": {
+        "id": "h8bfii620ck09bamjbuec08c6o@group.calendar.google.com",
+        "accomplishment": "An award-winning American poet and author. Maya Angelou is known for her autobiographies and activism.",
+        "quote": "“What you're supposed to do when you don't like a thing is change it. If you can't change it, change the way you think about it. Don't complain.”",
+        "summary": "Starting the day extremely early, Maya Angelou works hard and passionately with her writing. A simple yet efficient daily schedule that is able to separate her work and personal life. ",
+        "__collections__": {
+          "event1": {
+            "jUbwwH7xtyIuZ7Enwxab": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614421800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Maya Angelou wakes up at 5:30 and drinks coffee with her husband around 6. At 6:30, both her and her husband leave for work.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614425400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Waking up",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "UFG4nRthY4VylmkE5xN0": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614450600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Maya Angelou works in a small hotel room with a drink, dictionary, deck of cards, and the Bible. As a writer, her work hours vary. When work is going well, she ends around 2:00pm instead.",
+              "activity": "Work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614427200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "O5m9JUep22ZSqWuxW9wO": {
+              "activity": "Shower and cooking",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Once she arrives home, Maya Angelou reviews the work she has done then puts it aside for the day so when her husband arrives home, her attention is away from work. She then showers and prepares dinner. ",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "uh0PBIVvZd5VRkUKln4M": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Maya Angelou eats dinner with her husband. They also have a drink together and she reads over her work to him.",
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "FtJspOuGPVF6UFKf8enK": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614481200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Off time",
+              "description": "After cleaning up dinner, this time is spent preparing for bed. Maya Angelou wakes up very early for work, so 10:00pm is an ideal time to sleep. ",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Oprah Winfrey": {
+        "id": "kfostto95n90772teumo284ff4@group.calendar.google.com",
+        "title": "Turn your wounds into wisdom.",
+        "summary": "One of the most influential people in the United States.",
+        "accomplishment": "Celebrity",
+        "__collections__": {
+          "event1": {
+            "Oyp78zU0UUGQfLLguFMU": {
+              "description": "Wake up, work out and play scrabble on ipad",
+              "activity": "Wake up and do something fun",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613564100,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613559600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "BrVz0BDoPV0UtoFHnZVd": {
+              "description": " Get up in the makeup chair, tape shows",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613578500,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Get ready, work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613565000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "nF7Q6oGqR1kMloFfXi9C": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613579400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "description": "Grab lunch and make phone calls",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613582400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "UEDM07nnVbClAxWe5Cch": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613587500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613583300,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Makeup, more shows",
+              "activity": "Work",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "w5GFtV4uJXRFKXRaFh2F": {
+              "activity": "Work",
+              "description": "Finance, show and planning meetings",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613608500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613588400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "CmbOAbwYvETndcuTXj5e": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613612100,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Do something fun, Fitness ",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613609400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Gym",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "PAAeE8KVEFWu4F2ueIBp": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613613000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Dinner with Stedman",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613616300,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "5RBKxsIJPm8fPd2mJXjc": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613617200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Relax",
+              "description": "Read, decide next book club book",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613620500,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "BDYazpFYby1bbMj1MZoy": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613621400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Sleep",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613559600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Lights out",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Queen Elizabeth II": {
+        "id": "rhc66bm0f63rbnf4ld22pvlq90@group.calendar.google.com",
+        "accomplishment": "Queen of the United Kingdom, and 15 other commonwealth realms & longest-reigning British monarch.",
+        "summary": " The Queen has lots of private business to attend to on any given day, however she still makes time to meet with the public and relax (especially by watching soaps).",
+        "__collections__": {
+          "event1": {
+            "P1YBr3YpnHVLILcCJqGv": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614429000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She is woken up by her maids, and is poured a cup of Earl Grey tea served with cookies.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614430800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up and start the day with tea and cookies",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "Zn1KPV9FH8r9VFOLlJkU": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "This is high tea where more Earl grey tea is served along with salmon, cucumber, and egg sandwiches. There is also scones, jam sandwiches, and fruitcake.",
+              "activity": "Snack time",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614465000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "9j6iHBpBA3DuvLr3ZLg0": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614468600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Every Wednesday she meets with the Prime Minister of the United Kingdom to discuss important issues.",
+              "activity": "Inform yourself about current events and important issues",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "gJdROf6E9LBEHXE0dAjy": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614472200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She looks through the daily report of the parliamentary proceedings.",
+              "activity": "Study or get some work done",
+              "__collections__": {}
+            }
+          },
+          "event13": {
+            "FYLGeBGpTrrfSdSxjEf8": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614475800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She tries to avoid carbs, and therefore doesn’t usually consume rice, potatoes, or pasta. Instead she’ll enjoy fish or game.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614472200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event14": {
+            "3OFZnIxglQ6trNZHaifX": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614483000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614475800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She enjoys watching soaps - especially Coronation Street.",
+              "activity": "watch TV",
+              "__collections__": {}
+            }
+          },
+          "event15": {
+            "dyhAt4tZBUrMjZL6VKOH": {
+              "activity": "Bedtime",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484801,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She writes a page in her diary which she started the first day she became Queen.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "Yd5AzRk7mdcfelebo890": {
+              "description": "She bathes, puts on her first outfit of the day, and gets her hair styled.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614432600,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614430800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Take a shower, and get dressed for the day",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "OOdO7xxSBBRC2QtCdqrv": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614434400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She likes to eat fruit, yogurt, and cereal, with her favourite being cornflakes with milk and toast with marmalade.",
+              "activity": "Eat breakfast and read the news",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614432600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "fTpCW1pkQiJLnTLNxBlj": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614435300,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She likes listening to her kilted piper play the bagpipes",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614434400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "listen to music",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "vUkV1qQMMoagwOSBAeQF": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614435300,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614438000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She scans through her fan mail and picks a few to answer personally. She also signs off on legislation so they officially become laws.",
+              "activity": "Answer text messages or emails (reply to friends)",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "8Oyw9P6PML7VuQp6r2uo": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614441600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Call a friend",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614442800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Private meetings with VIP guests.",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "Y42WrNE1TFQlJ1x5klh7": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614448800,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614447000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She walks her dogs.",
+              "activity": "Spend time with a pet or take a walk outside",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "4yxyWpyrbq6Dni5Dvpgr": {
+              "description": "She usually has fish, spinach, and zucchini.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614448800,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614450600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "pnJACSldDDAegxBbOdO5": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614459600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She travels on a royal helicopter or plane to her royal engagements.",
+              "activity": "Explore the city",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Ronda Rousey": {
+        "id": "lb8ghl1bcn0vhma70r3udr6k7s@group.calendar.google.com",
+        "accomplishment": "A professional athlete and wrestler. One of the most successful female athletes, with championships in judo and wrestling.",
+        "quote": "\"Everyone wants to win. But to truly succeed--whether it is at a sport or at your job or in life--you have to be willing to do the hard work, overcome the challenges, and make the sacrifices it takes to be the best at what you do.\"",
+        "summary": "As a successful athlete, Ronda Rousey maintains a consistent schedule balanced with lots of training and a healthy diet. ",
+        "__collections__": {
+          "event1": {
+            "ZnZ7Sa5f21L1wslWFoQQ": {
+              "startTIme": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614430800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Breakfast",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614438000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Rousey wakes up early at 8:00 every day. As an athlete, her breakfast diet is important. She eats two teaspoons of oat bran, chia seeds, hemp seeds, almond butter, raisins, and cinnamon.",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "0aY6W8Jd50aNSOgnvTZg": {
+              "activity": "Training",
+              "description": "Rousey trains twice a day for nearly 2 hours. Her first session is right after breakfast. Varying each day, for training, she does cardio workouts (i.e. skipping rope, stairs), sparring, and punching bag work. ",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614444300,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614438000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "4FM74tKMkl6H7KKPPwlG": {
+              "activity": "Break",
+              "description": " After workout sessions, Rousey takes a break and has a post-workout smoothie before lunch.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614445200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614444300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "LIt4MoIpH1tlFNHMjm4A": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614445200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "description": "Rousey’s lunch usually consists of scrambled eggs on bread with red peppers, tomatoes, spinach, avocados, mushrooms, and turkey bacon.",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "mb5uJWY3LpgWxeGjWNgJ": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614459600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Her snacks consist of apples, raw almonds, and yogurt. ",
+              "activity": "Snack break",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "3br4Yfb5V2sQqGTHvuCc": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Training",
+              "description": "This is Rousey’s second and final training session of the day. Sometimes she goes to the gym to workout, or to the pool for swimming. Every day is different.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614459600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "rvEBKdw7zS8vN7VRiQ1y": {
+              "activity": "Break",
+              "description": "Rousey always has a smoothie after a workout session. ",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614471300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "aa6zfshtPAMiIJ3m47BQ": {
+              "activity": "Dinner",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614475800,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614471300,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "For dinner, Rousey makes her own turkey chilli.",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "EUFs0ERQrSGkjjSd7PBD": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614481200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614475800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Before sleeping, Rousey drinks chamomile tea. Then, she prepares for bed.",
+              "activity": "Tea break",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Serena Williams": {
+        "id": "o6uobi0b6jveqr6995g1vl1jq8@group.calendar.google.com",
+        "accomplishment": "American gymnast, first female U.S. gymnast to win 4 gold medals at a single Games & first gymnast to win 3 consecutive world all-around titles (2013-2015).",
+        "summary": "Serena spends lots of time staying active, and enjoys spending time with her family.",
+        "__collections__": {
+          "event1": {
+            "mTY7mcpkavGTYOnjoSQb": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614429000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614427200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Breakfast",
+              "description": "She likes to eat oats, fruit, and almond butter.",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "mlmZvOc1l0mFj9ZNLiGs": {
+              "activity": "Exercise",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614430800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Tennis practice with her father and her sister Venus.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614441600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "n3VPj8Nu9gTyBY4mmRF5": {
+              "description": "Lunch for Serena is usually a light salad.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614445200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614448800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "7AVrZ5sVGSrdcNUfgCzr": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She does strength training.",
+              "activity": "Exercise",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614457800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "1splZOUVU4sMjPj1mELR": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614459600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She participates in dance class.",
+              "activity": "Follow an online dance routine",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "J351O3LlJyX3hqSE3Ti5": {
+              "description": "She does rehab to recover from exercise.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614466800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Take a rest break, stretch, or read a book.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "nBvjJFym12JtsCkZ0wsM": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614474000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She has dinner with her family.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614466800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "n6Q281WAcGAPpu5kN4Th": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Technology break",
+              "description": "This is her time to catch up on social media and do promotional work.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614474000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "eNVCv8AR3uKvYChNDLCT": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614402001,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Sleep",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614402000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Time for Serena to get some rest after a long day.",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Simone Biles": {
+        "id": "jr1jgqs45i5fii9ai130r5k064@group.calendar.google.com",
+        "accomplishment": "American professional tennis player, ranked No. 1 for 253 weeks in her career & former world No. 1 in world singles tennis.",
+        "summary": "Simone Biles spends a lot of time perfecting her skills in the gym, but always makes time to hang out with family (and her dogs of course). She’s human like the rest of us and loves treating herself to pizza.",
+        "__collections__": {
+          "event1": {
+            "w0OtIyVBeQN8dyXFbIjd": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614428100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Her alarm clock goes off at 7 am sharp and her day starts.",
+              "activity": "Wake up",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614427200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "SZiLhQrvwKdPBmZ4VOnW": {
+              "activity": "Dinner",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614470400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Her favourite healthy dinner is salmon, rice, and carrots. Her favourite unhealthy dinner is pepperoni pizza.",
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "n4xnbHG91RikOBfC2PT3": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614474000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She makes a point to chill with family.",
+              "activity": "Spend time with family or friends",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614477600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "W5QXyV1VIZxCuEwFkA9V": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614439800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "get work done",
+              "description": "She catches up on homework.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614434400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event13": {
+            "mXX2vdaTODdqI1Dv9OmX": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484800,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484801,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She’s in bed by midnight to get a good rest.",
+              "activity": "Bedtime",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "mGnPOzDyTrizpl9k2vjg": {
+              "description": "She brushes her teeth, puts on make-up and does her hair.",
+              "activity": "Wash face and brush teeth",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614429000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614428100,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "PebRlf7BMcht9b5sJJw9": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614432600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Breakfast",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614430800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She likes to eat cereal or egg whites.",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "G7EkyZXgZN9q8XlYAxLe": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614441600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Light exercise: stretching or a walk",
+              "description": "She warms up and trains focusing on “basics and skills”.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614434400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "5VX3wTDvN7ZG6LqFoT0E": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614447900,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She likes to eat high-protein meals such as chicken or fish.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614445200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "UwNmo5z54BM86ifXBdV2": {
+              "activity": "Rest",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614448800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "A break to check social media, read, spend time outdoors, etc.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "TXiGBp8kr5pLVU9zoZPs": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614454200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614452400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She likes to grab a snack before heading back to the gym. Usually a protein shake, banana, or peanut butter.",
+              "activity": "snack",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "ACpZ1Z4yH03eI6hZZLFK": {
+              "description": "She works on putting her skills from the morning together, and practices routines.",
+              "activity": "Go to the gym",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614456000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614463200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "uf8EsSaiKOfnCMQvRjbz": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614469500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "She gets physical therapy at the gym or at home.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614466800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Stretch",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Steve Jobs": {
+        "id": "5smibo82tlpncpreont9gk45mk@group.calendar.google.com",
+        "quote": "Being the richest man in the cemetery doesn’t matter to me. Going to bed at night saying we’ve done something wonderful… that’s what matters to me.",
+        "accomplishment": "Co-founder and late CEO of Apple Inc., co-founder of Pixar Animation Studios & pioneer of the Personal Computer Revolution",
+        "summary": "Jobs was a morning person; he liked to get most of his work done early in the day. His daily routine was mostly spent interacting with others (ex. Meetings, emails, phone calls, etc,...)",
+        "__collections__": {
+          "event1": {
+            "CrKxEgmLSwNm0J7fmcEM": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612437300,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612436400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Wake up and get dressed",
+              "description": " Steve Jobs was a morning person. He liked to wake up early and get dressed in the same signature turtleneck and jeans every day so that he wouldn’t waste any time.",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "3CHq56uaJopkw5LPU9qY": {
+              "description": " Jobs would have a vegetarian dinner with his family. After dinner, Jobs would have some tea and spend time with his family. ",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612477800,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612480500,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "Q81NENDJyXj4LNSwV1N5": {
+              "activity": "Exercise",
+              "description": " Jobs would take a stroll with his wife around Palo Alto or go for run/walk by himself.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614294900,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614465000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "zR7f6WK7bnrTPxjSvYrN": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614398400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614394800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Jobs would take this time to relax. He would meditate and listen to music by artists such as Bob Dylan and Bach.",
+              "activity": "Relaxation",
+              "__collections__": {}
+            }
+          },
+          "event13": {
+            "vtNOMEYE6eP9SzAofUvH": {
+              "description": "Jobs would get around 6-7 hours of sleep a night.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484801,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614484800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Sleep",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "RbEbvByhlAhbhVleJLmI": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612440900,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612437900,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Start the day with some work",
+              "description": " If his kids weren’t up yet, Jobs would start the day with a little work. He’d browse through emails and complete some minor tasks.",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "X3qojZa6VYTVK8F53XYC": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612443300,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " After a bit of work, Jobs would have some breakfast with family and see his kids off to school.  Jobs was a vegetarian and prefered to have whole & dried fruits, vegetables and Odwalla juice for breakfast.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612441500,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Breakfast",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "NvrRMxpKlMUaXA14LSvi": {
+              "description": " Jobs believed that he was at his most productive during the morning. As such, he would try to get an extra hour or so of work done at home if he wasn’t immediately needed at work.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612446900,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612443600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Get some more work done",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "9SagSHkjBxAdniSodXvZ": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612447200,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Arrive at work",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612448700,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Jobs would usually arrive at work between 8 to 9 AM if he was needed at the office during the morning.",
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "dEhOA8h9sl6g6MtvlwCX": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612456200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612449000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Jobs would have meetings with his executives on Mondays. Together, they would review the whole business, such as what they sold the week before, what products were under development and what products they were struggling with.  On Wednesdays, he would meet with this marketing team.",
+              "activity": "Meetings",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "INNwDAFTFevOLF103D4J": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612458000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612462800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Lunch",
+              "description": "As mentioned before, Jobs was a vegetarian. He also occasionally fasted.",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "fPd3KeW38JliIKgjC8pk": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612463400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612467900,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": " Work continued",
+              "description": " In the afternoon, Jobs would visit the Industrial Design Lab and meet with John Ive (Chief Design Officer at the time) and his team of designers.",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "VTfPLSA0AHqSp1iyPtCj": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612476000,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612555200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Jobs would complete a variety of miscellaneous tasks, like responding to emails and phone calls. On average, Jobs would respond to 100 emails and 10 phone calls a day.",
+              "activity": " Miscellaneous tasks",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Taylor Swift": {
+        "id": "0a6e6bi60ldldsu974h4jhehd0@group.calendar.google.com",
+        "quote": "Just be yourself, there is no one better.",
+        "summary": "Won many Grammy awards including Album of the Year for record Fearless. One of the most popular musical artists in the world. Pop and country music artist.",
+        "accomplishment": "Artist",
+        "__collections__": {
+          "event1": {
+            "VEdxWQc3LdQlTpnW8lDt": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613481300,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up and do something fun.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613476800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Gets up and plays with cats",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "sEiXmvGaIRLHpgxBphot": {
+              "activity": "Work",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613623500,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Perform and meet friends",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613613600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "EQOxvbFCy3WaUdLCEw6m": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613538000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Head home and go to sleep",
+              "activity": "Sleep",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613563200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "Dq6jwHJ8d7rTnJYzJ6nc": {
+              "description": "Works out",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613400300,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Fitness",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613482200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "TkuJ3btEggynK7jVJfJd": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613487600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Grab lunch with Karlie and Lily.",
+              "activity": "Lunch",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613580300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "1gtrBpojjyMTrz3M8CzN": {
+              "activity": "Socialize",
+              "description": "Call parents",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612976400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612977300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "KjUUkyRV6DKf9qx5pEWh": {
+              "activity": "Work",
+              "description": "Meet with Studio Executives",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612984500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612978200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "H9hReKxcWULtLTbkjeB9": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612993500,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612985400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Do something fun ",
+              "description": "Bake Treats for Neighbors",
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "Z8z7x7ynUvbXANMAKdgz": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613519100,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Rehearse for the Night’s Concert",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613512800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Work",
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "iXLTGVw7LrFQv99iQshE": {
+              "description": "Grab a quick dinner with Lena Dunham and Selena Gomez",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613606400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Dinner",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613522700,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "5D73ToaBLIeb5alfEWTy": {
+              "activity": "Break/Socialize",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613699100,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613696400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Stalk Tumblr from Backstage",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Tom Brady": {
+        "id": "ldhk290tnokg528ogl79cf0d1k@group.calendar.google.com",
+        "title": "Professional football player.",
+        "accomplishment": "7x NFL Super Bowl Champion",
+        "summary": "Tom Brady lives a very athletic and busy life. His focus on being healthy and staying fit every single day proves why he is the best quarterback in NFL history. Following a routine helps Tom’s work life balance to be successful in and off the field.",
+        "__collections__": {
+          "event1": {
+            "3nbXo8K9KuHIjyDnmGzj": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613561400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Getting Ready",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612175400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Tom Brady usually wakes up around 5:30 in the morning and makes himself a smoothie to keep him energized for the day.",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "6vtL9dJihrr1cM9ZIn1S": {
+              "activity": "Dinner",
+              "description": "After an intense workout Brady has dinner with his family, he eats a lot of veggies and a source of protein.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613775600,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613604600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "MiR0zZeEMoEsMSl2wPJ1": {
+              "activity": "Family Time",
+              "description": "After a long day, Brady spends time with his family a relaxes.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612224000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613613600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "tGDqSVSdL6Pddmvwa9j8": {
+              "activity": "Sleep",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612231200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Sleep is very important. Brady makes sure he receives at least eight hours of sleep each night.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613556000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "ZLPxS6lybEKnOn9cnEZm": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613478600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Brady will eat his breakfast along with his family before he starts his day.",
+              "activity": "Breakfast",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612785600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "74CAR5blZeUxi9SWFd8z": {
+              "activity": "Work out",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612184400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Tom focuses on functional strength workouts which means workouts that use all your body's muscles to train stability and strength. Alongside with conditioning workouts.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612969200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "fFPQrRPRrC6X9DfCA5sL": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612191600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "At the end of his workout Tom Brady does pliability workouts to help with muscle recovery.",
+              "activity": "Pliability",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613403000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "ZX0DOC10SoyqPogaEGIX": {
+              "activity": "Study",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612890000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Tom studies football footage and analyzes plays.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612195200,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "OW3GpATSQpnQQUXPobQT": {
+              "activity": "Lunch",
+              "description": "Brady eats fish and plenty of vegetables for lunch and eats small healthy snacks like protein bars or fresh fruit.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612198800,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612292400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "PQZ0N1uM8MXJyvcnxEHG": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612206000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Freetime",
+              "description": "After eating Brady has time to himself and relaxes.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612467000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "UT2o7xzOuCp1JSKQERf9": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613772000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Team practice",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612900800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "Tom practices with his teammates and goes over drills and plays.",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "dSpS2ykYvvRCVIhebcI5": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1612821600,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614205800,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": " Tom works on pliability again to ensure muscle recovery and  to prevent injuries.",
+              "activity": "Pliability",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Usain Bolt": {
+        "id": "bb2uh2541j07u5vlebp6etnelg@group.calendar.google.com",
+        "summary": "Usain Bolt really prioritizes his sleep so that his body has enough time to recover from all the training he does. He has an overall “work hard play hard” attitude, as he prioritizes his training, but is also always down for a good time.",
+        "accomplishment": "Former sprinter for Jamaica, olympic gold medalist & highest paid athlete in the history of sprinting.",
+        "quote": "“I know what I can do, so I never doubt myself.”",
+        "__collections__": {
+          "event1": {
+            "FqcWZayGAjHGKyBkJPvy": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614351600,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614352500,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "wake up",
+              "description": "He describes himself as a “night owl” and therefore likes to sleep in to ensure he gets at least 8 hours of sleep",
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "gOHY83QcdXDBZT0qj38D": {
+              "activity": "breakfast",
+              "description": "He likes to eat a small egg sandwich and a green banana",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613747700,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614354300,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "alKK87TOQsS3aJtdt0JH": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614360600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "exercise",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613750400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He does weight-lifting",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "oFl0o6cfUwIQQcJ5jwcb": {
+              "description": "He likes to eat pasta with either corned beef or fish",
+              "activity": "lunch",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614362400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614366000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "lrMNFEIm9pVTIHdRaIBN": {
+              "description": "He does track training",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614369600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "go for a run or brisk walk",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613772000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "tx35x7RPUE6500Hqhl8W": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614380400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "dinner",
+              "description": "He has a large dinner with his favourite foods being: broccoli, yams, chicken, pork or other meat, Jamaican dumplings, and rice",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614384000,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "DiZpVpnzOeL3PrNdur3L": {
+              "description": "He likes to spend time with friends, play video games (Call of Duty is his favourite), or go out on the town",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614474000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "free time",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614398400,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "5cqxHnkQatMkmS9NAtUg": {
+              "activity": "sleep",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614315601,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614315600,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "he doesn't worry about going to bed late because he likes to sleep in",
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "Warren Buffett": {
+        "id": "rfh8aoicaiog5361d6fumamgjs@group.calendar.google.com",
+        "accomplishment": "business leaders",
+        "summary": "Despite being one of the richest people in the world, Warren Buffett chooses to live a modest, even frugal, life. He encourages hard work, and spends most of his time reading the news. His best piece of advice is to find something you are passionate about because it will never feel like work.",
+        "__collections__": {
+          "event1": {
+            "oQZWslRXhXsCDs94uThU": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614427200,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613648700,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Wake up",
+              "description": "He starts his day with a Coca-Cola after 8 hours of sleep.",
+              "__collections__": {}
+            }
+          },
+          "event10": {
+            "ppNy3MBACd78RYc6kJbu": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614384000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614391200,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He enjoys unwinding after work over a good game of bridge.",
+              "activity": "Play a game",
+              "__collections__": {}
+            }
+          },
+          "event11": {
+            "0Ku2D1zfSu8p80ltXqKi": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614393000,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Listen to music or practice and instrument",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1613786400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He likes to play the ukulele and once played a duet with Bon Jovi for charity.",
+              "__collections__": {}
+            }
+          },
+          "event12": {
+            "tEjbnDxFAUFyBKAVVwW4": {
+              "description": "He says that he “likes to sleep” and gets around 8 hours a night.",
+              "activity": "Bed time",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614397501,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614397500,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event2": {
+            "qjZPF9MJSJfTXDb9cEoZ": {
+              "activity": "Get ready for the day",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614340800,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614344400,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He has about 20 suits made by Madam Li, a self-made entrepreneur in China.",
+              "__collections__": {}
+            }
+          },
+          "event3": {
+            "LxqGmR4JNrnGlA45FIVC": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614345300,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614434400,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Get breakfast at McDonalds",
+              "description": "He allocates either $2.61, $2.95, or $3.17 each day for breakfast depending on how prosperous he feels that morning.",
+              "__collections__": {}
+            }
+          },
+          "event4": {
+            "BurluSZ85RbXX0dcAR8W": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614349800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Arrive at work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614348000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He gets to work at around 9: 30 when the stock markets open.",
+              "__collections__": {}
+            }
+          },
+          "event5": {
+            "7qZ7cx15bcD8WvbfqgEk": {
+              "description": "He spends 80% of his day reading and recommends trying to read at least 500 pages a day.",
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614360600,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614350700,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event6": {
+            "tWzoQeEHB2FoU2ewSPj1": {
+              "activity": "Lunch",
+              "description": "He also likes to go to McDonalds for lunch and purchases food using coupons.",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614447000,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614450600,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event7": {
+            "uvmfheiS2i1vDk8T1ebI": {
+              "description": "He goes back to reading financial statements, journals, and reports. Fun fact: he hates meetings and does not schedule meetings in advance.",
+              "activity": "Back to work",
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614450600,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614376800,
+                  "_nanoseconds": 0
+                }
+              },
+              "__collections__": {}
+            }
+          },
+          "event8": {
+            "qonBnuyLzdTcW3wvD47f": {
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614380400,
+                  "_nanoseconds": 0
+                }
+              },
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614376800,
+                  "_nanoseconds": 0
+                }
+              },
+              "activity": "Exercise/Get out and go for a walk",
+              "description": "He was told by his doctor to either change his diet or engage in exercise, so he chooses to exercise.",
+              "__collections__": {}
+            }
+          },
+          "event9": {
+            "6wfOcPVYsCXXH1bY8lNK": {
+              "startTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614380400,
+                  "_nanoseconds": 0
+                }
+              },
+              "endTime": {
+                "__datatype__": "timestamp",
+                "value": {
+                  "_seconds": 1614384000,
+                  "_nanoseconds": 0
+                }
+              },
+              "description": "He sometimes indulges in dinners at Gorat’s Steakhouse.",
+              "activity": "Dinner",
+              "__collections__": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
